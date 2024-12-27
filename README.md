@@ -1,4 +1,5 @@
-Main file: [Learning Progress Tracker (Python)/task/task.py](https://github.com/grapte/Hyperskill-LearningProgressTracker_Python/blob/main/Learning%20Progress%20Tracker%20(Python)/task/task.py)
-# Learning Progress Tracker (Python)
+This application keeps track of registered users, their learning progress, and metrics of classes they took. This program can also batch generate notifications for students who completed courses. It also can provide detailed information on each user, or a category of users, as well as the overall statistics for the entire platform.
 
-CLI program that keeps track of learning progress of multiple students. This task reads various input data, does certain calculations to create statistics and outputs desired information.
+Here's the link to the project: https://hyperskill.org/projects/326
+
+Check out my profile: https://hyperskill.org/profile/618051829
